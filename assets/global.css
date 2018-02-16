@@ -1,0 +1,17 @@
+body, html {
+    border: 0 none;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    padding: 20px 10px;
+    margin: 0;
+}
+
+p {
+    text-align: center;
+    padding: 20px 10px;
+    margin: 0;
+}
